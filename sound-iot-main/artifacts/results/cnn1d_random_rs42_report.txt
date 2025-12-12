@@ -1,0 +1,16 @@
+                  precision    recall  f1-score   support
+
+ air_conditioner       0.95      0.95      0.95       200
+        car_horn       0.94      0.94      0.94        86
+children_playing       0.91      0.86      0.88       200
+        dog_bark       0.91      0.92      0.92       200
+        drilling       0.93      0.94      0.93       200
+   engine_idling       0.91      0.98      0.95       200
+        gun_shot       0.94      0.97      0.95        75
+      jackhammer       0.97      0.93      0.95       200
+           siren       0.95      0.98      0.97       186
+    street_music       0.95      0.89      0.92       200
+
+        accuracy                           0.93      1747
+       macro avg       0.94      0.94      0.94      1747
+    weighted avg       0.93      0.93      0.93      1747
